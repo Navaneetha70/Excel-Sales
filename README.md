@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Booking_platforms](Product_sales @2.pdf)_ 
+    **1.** Create a _[Product_sales]([Product_sales @2.pdf](https://github.com/Navaneetha70/Excel-Sales/blob/main/Product_sales%20%402.pdf))_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Navaneetha70/Excel-Sales/blob/main/Product_sales%20%402.pdf)_
 
 - **Purpose of sales analytics:** Enable businesses to track and assess their sales strategies and outcomes.
 
